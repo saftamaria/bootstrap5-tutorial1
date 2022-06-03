@@ -1,0 +1,6 @@
+/*move position while the page gets smaller*/
+@media(min-width: 768px){
+    .news-input{
+        width:50%;
+    }
+}
